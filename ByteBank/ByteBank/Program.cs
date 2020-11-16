@@ -30,8 +30,12 @@ namespace ByteBank
             camila.Nome = "Camila";
             camila.Senha = "abc";
 
+            
+            
+
             sistemainterno.Logar(roberta, "123");
             sistemainterno.Logar(camila, "abc");
+            
         }
 
 
